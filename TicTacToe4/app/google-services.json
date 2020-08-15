@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "916338515682",
+    "firebase_url": "https://testing-b171d.firebaseio.com",
+    "project_id": "testing-b171d",
+    "storage_bucket": "testing-b171d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916338515682:android:8f097fa6ed70f362dc08bb",
+        "android_client_info": {
+          "package_name": "com.example.tictactoe4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916338515682-gegd2jbp8c0mdhapnhfoka6humq3a199.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRBiJBssUCvcRTT9YNm_oEO6klPlZXXeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916338515682-gegd2jbp8c0mdhapnhfoka6humq3a199.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
